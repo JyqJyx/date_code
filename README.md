@@ -1,1 +1,1 @@
-
+This is a code instruction manual. First, it is necessary to install the specified libraries in Python. Second, after downloading the raw data from the provided data link, some preprocessing steps need to be applied to the data, such as stacking it into 3D spatiotemporal data, removing low-quality data, and performing data resampling. After completing these steps, it is also required to modify the local storage path in the code—that is, the local path where you have saved the downloaded data—in order to correctly read and proceed to the next steps.
