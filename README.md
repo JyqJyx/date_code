@@ -14,7 +14,7 @@ We propose three novel Asymmetric Indices (AIs) to characterize the differential
 These indices are computed globally using multiple long-term satellite-derived and climate datasets (NDVI, LAI, GPP, precipitation) at 0.25° and 0.5° spatial resolutions.
 
 ## 🧰 Features
-* Data preprocessing and resampling (NDVI, LAI, CRU, TerraClimate)
+* Data preprocessing and resampling (NDVI, GPP, SIF，Precipitation)
 
 * Pixel-wise and neighborhood-based (8-neighbor, 24-neighbor) AI calculation
 
